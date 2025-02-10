@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FUnews_PRN_ver2.props" />
+</Project>

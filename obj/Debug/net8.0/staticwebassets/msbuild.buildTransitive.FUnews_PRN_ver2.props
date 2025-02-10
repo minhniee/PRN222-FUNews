@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FUnews_PRN_ver2.props" />
+</Project>
